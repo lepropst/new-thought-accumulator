@@ -1,0 +1,12 @@
+{
+	"dependencies": {
+		"clsx": "^2.0.0",
+		"react-hook-form": "^7.47.0",
+		"tailwind-merge": "^1.14.0"
+	},
+	"devDependencies": {
+		"eslint-plugin-prettier": "^5.0.0",
+		"eslint-plugin-tailwindcss": "^3.13.0",
+		"eslint-plugin-testing-library": "^6.0.2"
+	}
+}
